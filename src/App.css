@@ -1,0 +1,36 @@
+.App{
+  width: 1054px;
+  height: 790px;
+  background: #FAFAFA;
+  margin: 0px auto;
+  padding: 41px 48px;
+  font-family: "Montserrat";
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 15px;
+}
+
+.App h1{
+  font-family: "Montserrat";
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 32px;
+  margin-bottom: 20px;
+}
+a:focus{
+  opacity: 0.5;
+}
+a:active {
+  opacity: 1;
+}
+button:focus{
+  opacity: 0.5;
+}
+button:active {
+  opacity: 1;
+}
+.loading, .error{
+  text-align: center;
+  font-size: 30px;
+  margin-top: 100px;
+}

@@ -1,0 +1,43 @@
+.finalize{
+    width: 1054px;
+    height: 790px;
+    background: #FAFAFA;
+    margin: 0px auto;
+    padding: 41px 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.finalize h1{
+    font-family: "Montserrat";
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 32px;
+    margin-bottom: 10px;
+}
+.finalize p{
+    font-family: "Montserrat";
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+    margin-bottom: auto;
+}
+.finalize a{
+    color: #222222;
+    text-decoration: none;
+    font-family: "Nunito";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    border: 1px solid transparent;
+}
+.finalize_link a{
+    display: flex;
+    align-items: center;
+}
+.finalize_link a:focus{
+    border: 1px solid red;
+  }
+.finalize_link a:active {
+    border: 1px solid transparent;
+}

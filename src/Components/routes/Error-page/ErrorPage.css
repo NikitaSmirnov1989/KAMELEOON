@@ -1,0 +1,16 @@
+.error_page{
+    text-align: center;
+    margin: 0px auto;
+    margin-top: 50px;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    width: 80%;
+}
+.error_page h1{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.error_page p{
+    font-size: 30px;
+}
